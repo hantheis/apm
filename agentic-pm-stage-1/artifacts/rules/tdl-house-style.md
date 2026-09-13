@@ -1,4 +1,6 @@
-# TDL house style
+`could also point to skills already existing`
+
+# My personal style 
 
 _Portable core. Version 2, 13 September 2026. A standing rule-set, declared once at operator level and inherited into every brief through the context pack. Executing agents load it before working. Hard rules are binding, on par with the rubric, and are ticked in the pre-delivery self-check; rules under "Enforced by deliver" are just as binding but are refused by code, so they are not ticked; soft rules are defaults a brief may override._
 
@@ -17,13 +19,14 @@ _Portable core. Version 2, 13 September 2026. A standing rule-set, declared once
 
 - Lead with the conclusion; evidence follows.
 - One idea per paragraph. Bullets for parallel items, prose for argument.
-- Dates as `12 September 2026`. No ambiguous numerals.
+- Dates as '12 September 2026'. No ambiguous numerals.
 - British spelling.
 - Headings are sentence case.
 
 ## How to cite this rule-set
 
-In a context pack or a brief: `TDL house style (rules/tdl-house-style.md)`. The delivery summary names it under "Rules applied"; the self-check ticks its three hard rules.
+In a context pack or a brief: `house style (rules/house-style.md)`. The delivery summary names it under "Rules applied"; the self-check ticks its three hard rules.
+`replace this file path and doc`
 
 ## Version log
 
